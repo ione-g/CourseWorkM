@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6210794631",
+    "project_id": "courseworkeone",
+    "storage_bucket": "courseworkeone.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6210794631:android:f0ee812b272e40ae9bf422",
+        "android_client_info": {
+          "package_name": "eone.grim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXDBI8DeP9zGczNMkQkSln8jJqPMSFE10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
